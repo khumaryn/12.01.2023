@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\bin\Debug\netcoreapp3.1\REFL.exe
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\bin\Debug\netcoreapp3.1\REFL.deps.json
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\bin\Debug\netcoreapp3.1\REFL.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\bin\Debug\netcoreapp3.1\REFL.runtimeconfig.dev.json
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\bin\Debug\netcoreapp3.1\REFL.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\bin\Debug\netcoreapp3.1\REFL.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.dll
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.pdb
+C:\Users\Hp\OneDrive\Desktop\c# task\REFL\obj\Debug\netcoreapp3.1\REFL.genruntimeconfig.cache
